@@ -1,0 +1,2 @@
+"sendmsg.bat" "%TestName% 出现故障，请及时处理 !" "%DateTime%"
+"sendmsg.bat" "%TestName% 已恢复!" "%DateTime%"

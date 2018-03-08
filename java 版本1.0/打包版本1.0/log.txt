@@ -1,0 +1,7 @@
+开始获取 access_token!
+已获取 access_token!
+开始获取需要发送信息的员工列表!
+已获取需要发送信息的员工列表!列表为:ShiXiaoLin
+开始发送信息!
+responseBody:{"errcode":0,"errmsg":"ok","invaliduser":"","invalidparty":"@all","invalidtag":"0"}
+发送信息完毕
